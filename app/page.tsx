@@ -34,7 +34,7 @@ export default function Home() {
                     >
                         <div>
                             <Typography level="h5" component="h1">
-                                <strong>Welcome to the POC 👋</strong>
+                                <strong>Welcome to the site 👋</strong>
                             </Typography>
                         </div>
                         <div>
