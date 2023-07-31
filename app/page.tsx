@@ -48,7 +48,7 @@ export default function Home() {
                                     },
                                 })}
                             >
-                                View the Dashboard
+                                View Popular Movies
                             </Button>
                         </div>
                     </Sheet>
